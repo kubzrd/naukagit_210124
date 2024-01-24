@@ -1,0 +1,1 @@
+print('nauka o gitcie')
